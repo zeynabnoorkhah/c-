@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\obj\Debug\3 nums and max and min.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\obj\Debug\3 nums and max and min.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\bin\Debug\3 nums and max and min.exe.config
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\bin\Debug\3 nums and max and min.exe
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\bin\Debug\3 nums and max and min.pdb
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\obj\Debug\3 nums and max and min.exe
+C:\Users\USER\source\repos\3 nums and max and min\3 nums and max and min\obj\Debug\3 nums and max and min.pdb
