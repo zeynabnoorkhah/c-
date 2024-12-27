@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\reverse number\reverse number\bin\Debug\reverse number.exe.config
+C:\Users\USER\source\repos\reverse number\reverse number\bin\Debug\reverse number.exe
+C:\Users\USER\source\repos\reverse number\reverse number\bin\Debug\reverse number.pdb
+C:\Users\USER\source\repos\reverse number\reverse number\obj\Debug\reverse number.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\reverse number\reverse number\obj\Debug\reverse number.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\reverse number\reverse number\obj\Debug\reverse number.exe
+C:\Users\USER\source\repos\reverse number\reverse number\obj\Debug\reverse number.pdb
